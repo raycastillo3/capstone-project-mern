@@ -12,9 +12,9 @@ with the MERN stack (MongoDB, Express, React, Node.js)
   - React Router
   - AXIOS
 - Backend:
-    -Node.js
-    -Express.js
-    -MongoDB (Mongoose)
+  - Node.js
+  - Express.js
+  - MongoDB (Mongoose)
      
 
 
