@@ -11,7 +11,6 @@ with the MERN stack (MongoDB, Express, React, Node.js)
   - CSS(additional Styling)
   - React Router
   - AXIOS
-    </br>
 - Backend:
     -Node.js
     -Express.js
