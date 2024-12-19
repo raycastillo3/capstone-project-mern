@@ -5,13 +5,14 @@ Users can also share a snapchat of their favorite meal. This plaform is built
 with the MERN stack (MongoDB, Express, React, Node.js)
 
 ## Technology Used
--FrontEnd:
+- FrontEnd:
   - React
   - React Bootstrap
   - CSS(additional Styling)
   - React Router
   - AXIOS
--Backend:
+    
+- Backend:
   -Node.js
   -Express.js
   -MongoDB (Mongoose)
